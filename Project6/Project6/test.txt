@@ -1,0 +1,3 @@
+C:\Users\bilen\AppData\Roaming\Visual Studio Setup\user.json
+C:\Users\bilen\AppData\Roaming\Zoom\appsafecheck.txt
+C:\Users\bilen\AppData\Roaming\Zoom\bin
